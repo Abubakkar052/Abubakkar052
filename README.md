@@ -4,7 +4,7 @@
 # 🚀 I am Abubakkar Shahzad, Backend Laravel Developer
 
 ### 👨‍💻 **Currently working on:**
-- **Backend Development** using **Laravel, MySQL, and APIs** 🚀
+- **Backend Development** using **Laravel, MySQL, APIs, and JavaScript** 🚀
 - **Collaborating** on backend-related projects
 - Learning **advanced optimization techniques**
 
