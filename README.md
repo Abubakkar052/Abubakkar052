@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<img src="[https://your-profile-pic-link.com](https://github.com/account)" width="200" align="right">
+<img src="https://avatars.githubusercontent.com/u/49098525?v=4" width="200" align="right">
 
 # 🚀 I am Abubakkar Shahzad, Backend Laravel Developer
 
