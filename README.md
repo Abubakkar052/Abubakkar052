@@ -4,15 +4,16 @@
 # 🚀 I am Abubakkar Shahzad, Backend Laravel Developer
 
 ### 👨‍💻 **Currently working on:**
-- **Backend Development** using **Laravel, MySQL, APIs, and JavaScript** 🚀
-- **Collaborating** on backend-related projects
-- Learning **advanced optimization techniques**
+- **Backend Development** using **Laravel, MySQL, APIs, and JavaScript** 🚀  
+- **Frontend Development** using **Angular 19 (Standalone Components)**  
+- **Collaborating** on backend-related projects  
+- Learning **advanced optimization techniques**  
 
 ---
 
 ### 🔎 **Looking for:**
-- Collaborations in Laravel backend projects
-- Assistance with **complex queries, APIs, and server optimizations**
+- Collaborations in Laravel backend projects  
+- Assistance with **complex queries, APIs, and server optimizations**  
 
 ---
 
@@ -21,16 +22,17 @@
 
 ---
 
-### ⚒️ **Languages and Tools:**
+### ⚒️ **Languages and Tools (Priority-Based):**
 <p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Ajax-0088CC?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Ajax-0088CC?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
