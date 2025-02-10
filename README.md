@@ -3,6 +3,8 @@
 
 # 🚀 I am Abubakkar Shahzad, Backend Laravel Developer
 
+---
+
 ### 👨‍💻 **Currently working on:**
 - **Backend Development** using **Laravel, MySQL, APIs, and JavaScript** 🚀  
 - **Frontend Development** using **Angular 19 (Standalone Components)**  
@@ -36,5 +38,21 @@
 </p>
 
 ---
+
+### 📊 **GitHub Stats** 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar052&layout=compact&theme=radical)
+
+---
+
+### 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abubakkar052&theme=radical&margin-w=15&column=7)
+
+---
+
+### 📈 **Contribution Stats**
+![GitHub Streak](https://streak-stats.demolab.com?user=abubakkar052&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
 
 ✨ **Fun Fact**: _"I'm an efficient backend developer who loves optimizing Laravel queries."_ 🚀
